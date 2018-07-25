@@ -1,8 +1,8 @@
 include ':One handler for multiple buttons', ':Resources', ':Menu Icons Checkbox', ':Toast Notifications', ':View el of java code', ':Three ways to handle clicks'
 
-project(':One handler for multiple buttons').projectDir = new File('0010')
-project(':Resources').projectDir = new File('0011')
-project(':Menu Icons Checkbox').projectDir = new File('0013')
-project(':Toast Notifications').projectDir = new File('0012')
-project(':View el of java code').projectDir = new File('0008')
-project(':Three ways to handle clicks').projectDir = new File('0009')
+project(':One handler for multiple buttons').projectDir = new File('One handler for multiple buttons')
+project(':Resources').projectDir = new File('Resources')
+project(':Menu Icons Checkbox').projectDir = new File('Menu Icons Checkbox')
+project(':Toast Notifications').projectDir = new File('Toast Notifications')
+project(':View el of java code').projectDir = new File('View el of java code')
+project(':Three ways to handle clicks').projectDir = new File('Three ways to handle clicks')
